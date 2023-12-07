@@ -1,0 +1,40 @@
+@import "https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css";
+
+main {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+a.normal {
+    display: block;
+    
+    margin-bottom: 1em;
+    margin-bottom: 1em;
+}
+summary {
+    font-size: x-large;
+    margin: 1em 0 1em 0;
+    width: 100%;
+}
+summary.btn {
+    display: list-item;
+    /* cursor: pointer; */
+    font-size: 1.25em;
+}
+
+details > summary::after {
+    content: " - tap to open";
+    
+}
+
+details[open] > summary::after {
+    color: darkorange;
+    content: " - tap to close";
+    font-weight: bolder;
+    
+}
+ul.d-flex {
+    max-width: 600px;
+    list-style: none;
+    padding-left: 0;
+}
