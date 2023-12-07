@@ -15,10 +15,10 @@
         <a class="normal" href="https://bustimes.org/services/36-monmouth-hereford-5#map">Live buses: 36, Monmouth - Hereford</a>
 
 
-        <a class="normal" href="https://www.metoffice.gov.uk/weather/forecast/gcjyg66q9">Weather: Abergavenny</a>
+        <a class="normal" href="https://www.bbc.co.uk/weather/2657815">Weather: Abergavenny</a>
         <a class="normal" href="https://www.bbc.co.uk/weather/hr2">Weather: HR2</a>
-        <a class="normal" href="https://www.metoffice.gov.uk/weather/forecast/gcnnf2b23">Weather: Monmouth</a>
-        <a class="normal" href="https://www.metoffice.gov.uk/weather/forecast/gcnpm68t8">Weather: Ross-on-Wye</a>
+        <a class="normal" href="https://www.bbc.co.uk/weather/2642313">Weather: Monmouth</a>
+        <a class="normal" href="https://www.bbc.co.uk/weather/2639110">Weather: Ross-on-Wye</a>
         <a class="normal" href="https://www.metoffice.gov.uk/weather/forecast/gcq20bkjn">Weather: Ledbury</a>
         <a class="normal" href="https://www.metoffice.gov.uk/weather/forecast/gcnrj1e0w">Weather: Gloucester</a>
                
