@@ -4,13 +4,15 @@
    <li>
     <details open=""><summary class="btn btn-primary">Bus maps, weather & live train departures</summary>
 
-        <a class="normal" href="https://bustimes.org/services/23-merthyr-twyncarmel-2#map">Live bus map - 23 - Hereford to Newport</a>
+        <a class="normal" href="https://bustimes.org/services/23-merthyr-twyncarmel-2">Timetable: 23, Hereford to Newport</a>
+        <a class="normal" href="https://bustimes.org/services/33-gloucester-ross-on-wye">Timetable: 33, Gloucester to Hereford</a>
+        <a class="normal" href="https://bustimes.org/services/36-monmouth-hereford-5">Timetable: 36, Monmouth to Hereford</a>
+
+
+        <a class="normal" href="https://bustimes.org/services/23-merthyr-twyncarmel-2#map">Live buses:23, Hereford to Newport</a>
         
-        <a class="normal" href="https://bustimes.org/services/33-gloucester-ross-on-wye#map">Live bus map - 33 - Gloucester to Hereford</a>
-        <a class="normal" href="https://bustimes.org/services/36-monmouth-hereford-5#map">Live bus map - 36 - Monmouth to Hereford</a>
-        <a class="normal" href="https://bustimes.org/services/23-merthyr-twyncarmel-2">Timetable: 23- Hereford to Newport</a>
-        <a class="normal" href="https://bustimes.org/services/33-gloucester-ross-on-wye">Timetable: 33 - Gloucester to Hereford</a>
-        <a class="normal" href="https://bustimes.org/services/36-monmouth-hereford-5">Timetable: 36 - Monmouth to Hereford</a>
+        <a class="normal" href="https://bustimes.org/services/33-gloucester-ross-on-wye#map">Live buses:33, Gloucester to Hereford</a>
+        <a class="normal" href="https://bustimes.org/services/36-monmouth-hereford-5#map">Live buses:36, Monmouth to Hereford</a>
 
 
         <a class="normal" href="https://www.metoffice.gov.uk/weather/forecast/gcjyg66q9">Weather in Abergavenny</a>
