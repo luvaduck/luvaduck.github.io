@@ -6,11 +6,17 @@
 display: none; 
 /* remove main header */
 }
+body > div.my-5 { 
+margin-top: 0px !important; 
+    /* bring up the main container */
+}
 main {
     width: 90%;
     margin-left: auto;
     margin-right: auto;
 }
+
+
 a.normal {
     display: block;
     margin-bottom: 0;
