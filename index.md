@@ -16,7 +16,7 @@
 
 
         <a class="normal" href="https://www.metoffice.gov.uk/weather/forecast/gcjyg66q9">Weather: Abergavenny</a>
-        <a class="normal" href="https://www.metoffice.gov.uk/weather/forecast/gcq04hx21">Weather: Hereford</a>
+        <a class="normal" href="https://www.bbc.co.uk/weather/hr2">Weather: HR2</a>
         <a class="normal" href="https://www.metoffice.gov.uk/weather/forecast/gcnnf2b23">Weather: Monmouth</a>
         <a class="normal" href="https://www.metoffice.gov.uk/weather/forecast/gcnpm68t8">Weather: Ross-on-Wye</a>
         <a class="normal" href="https://www.metoffice.gov.uk/weather/forecast/gcq20bkjn">Weather: Ledbury</a>
