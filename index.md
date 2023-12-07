@@ -9,18 +9,18 @@
         <a class="normal" href="https://bustimes.org/services/36-monmouth-hereford-5">Timetable: 36, Monmouth to Hereford</a>
 
 
-        <a class="normal" href="https://bustimes.org/services/23-merthyr-twyncarmel-2#map">Live buses:23, Hereford to Newport</a>
+        <a class="normal" href="https://bustimes.org/services/23-merthyr-twyncarmel-2#map">Live buses: 23, Hereford - Newport</a>
         
-        <a class="normal" href="https://bustimes.org/services/33-gloucester-ross-on-wye#map">Live buses:33, Gloucester to Hereford</a>
-        <a class="normal" href="https://bustimes.org/services/36-monmouth-hereford-5#map">Live buses:36, Monmouth to Hereford</a>
+        <a class="normal" href="https://bustimes.org/services/33-gloucester-ross-on-wye#map">Live buses: 33, Gloucester - Hereford</a>
+        <a class="normal" href="https://bustimes.org/services/36-monmouth-hereford-5#map">Live buses: 36, Monmouth - Hereford</a>
 
 
-        <a class="normal" href="https://www.metoffice.gov.uk/weather/forecast/gcjyg66q9">Weather in Abergavenny</a>
-        <a class="normal" href="https://www.metoffice.gov.uk/weather/forecast/gcq04hx21">Weather in Hereford</a>
-        <a class="normal" href="https://www.metoffice.gov.uk/weather/forecast/gcnnf2b23">Weather in Monmouth</a>
-        <a class="normal" href="https://www.metoffice.gov.uk/weather/forecast/gcnpm68t8">Weather in Ross-on-Wye</a>
-        <a class="normal" href="https://www.metoffice.gov.uk/weather/forecast/gcq20bkjn">Weather in Ledbury</a>
-        <a class="normal" href="https://www.metoffice.gov.uk/weather/forecast/gcnrj1e0w">Weather in Gloucester</a>
+        <a class="normal" href="https://www.metoffice.gov.uk/weather/forecast/gcjyg66q9">Weather: Abergavenny</a>
+        <a class="normal" href="https://www.metoffice.gov.uk/weather/forecast/gcq04hx21">Weather: Hereford</a>
+        <a class="normal" href="https://www.metoffice.gov.uk/weather/forecast/gcnnf2b23">Weather: Monmouth</a>
+        <a class="normal" href="https://www.metoffice.gov.uk/weather/forecast/gcnpm68t8">Weather: Ross-on-Wye</a>
+        <a class="normal" href="https://www.metoffice.gov.uk/weather/forecast/gcq20bkjn">Weather: Ledbury</a>
+        <a class="normal" href="https://www.metoffice.gov.uk/weather/forecast/gcnrj1e0w">Weather: Gloucester</a>
                
         
         <a class="normal" href="https://www.nationalrail.co.uk/live-trains/departures/abergavenny/">Live train departures from Abergavenny</a>
